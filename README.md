@@ -1,5 +1,5 @@
 # HomePage
-<h2>Home Page</h2>
+<!-- <h2>Home Page</h2> -->
 <hr>
 This is a minimal home page which is based on simple HTML-CSS and javascript.This challenge will really test our layout skills. There are also areas that will require some JavaScript, such as the tabbed features section.
 <hr>
